@@ -1,0 +1,8 @@
+C:\BP\Supermarket\KataSupermarket\KataSupermarket\bin\Debug\KataSupermarket.dll
+C:\BP\Supermarket\KataSupermarket\KataSupermarket\bin\Debug\KataSupermarket.pdb
+C:\BP\Supermarket\KataSupermarket\KataSupermarket\obj\Debug\KataSupermarket.dll
+C:\BP\Supermarket\KataSupermarket\KataSupermarket\obj\Debug\KataSupermarket.pdb
+C:\Users\Maria\Source\Repos\kata1606-supermarket\KataSupermarket\bin\Debug\KataSupermarket.dll
+C:\Users\Maria\Source\Repos\kata1606-supermarket\KataSupermarket\bin\Debug\KataSupermarket.pdb
+C:\Users\Maria\Source\Repos\kata1606-supermarket\KataSupermarket\obj\Debug\KataSupermarket.dll
+C:\Users\Maria\Source\Repos\kata1606-supermarket\KataSupermarket\obj\Debug\KataSupermarket.pdb
